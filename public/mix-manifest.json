@@ -1,0 +1,7 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/actions/delete-prompt.js": "/js/actions/delete-prompt.js",
+    "/js/actions/form-modal.js": "/js/actions/form-modal.js",
+    "/js/actions/interval-format-toggle.js": "/js/actions/interval-format-toggle.js",
+    "/css/app.css": "/css/app.css"
+}

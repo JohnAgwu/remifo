@@ -1,0 +1,1 @@
+{"version":3,"file":"/js/actions/form-modal.js","mappings":"AAAAA,EAAEC,UAAUC,OAAM,WACdF,EAAE,cAAcG,MAAM,OAC1B","sources":["webpack:///./resources/js/actions/form-modal.js"],"sourcesContent":["$(document).ready(function(){\n    $(\"#formModal\").modal(\"show\");\n});\n"],"names":["$","document","ready","modal"],"sourceRoot":""}

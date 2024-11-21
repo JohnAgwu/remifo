@@ -1,0 +1,2 @@
+$(document).on("click","#delete",(function(e){var n=this;e.preventDefault(),swal({title:"Are you sure?",text:"This action is permanent and cannot be reversed!",icon:"warning",buttons:!0,dangerMode:!0}).then((function(e){if(!e)return!1;location.href=$(n).attr("href")}))}));
+//# sourceMappingURL=delete-prompt.js.map
